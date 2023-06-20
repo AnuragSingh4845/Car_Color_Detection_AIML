@@ -95,6 +95,7 @@ print ('modules loaded')
 Images in this dataset were sourced from google. The were further cleaned up, post-processed, annotated and consolidated into a dataset. VCoR is a large scale and most diverse Vehicle color recognition dataset. VCoR contains 10k+ image samples and 15 color classes which is almost twice as diverse as the largest existing dataset. The 15 color categories represent the most popular vehicle color models according to CarMax, including: white, black, grey, silver, red, blue, brown, green, beige, orange, gold, yellow, purple, pink, and tan.
 
 CONTENT
+
 There is one main zip file available for download which contains 3 sub-folders.
 1) train folder contains 15 folders for all 15 color classes, and about 7.5K images
 2) val folder contains 15 folders for all 15 color classes, and about 1.5K images
