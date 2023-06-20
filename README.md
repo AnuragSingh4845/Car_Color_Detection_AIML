@@ -106,3 +106,15 @@ LINKS TO DATA SETS ARE GIVE BELOW👇
 [KAGGLE]([/guides/content/editing-an-existing-page](https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset)https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset)
 
 [GOOGLE DRIVE]([/guides/content/editing-an-existing-page](https://drive.google.com/file/d/1wpW7hD2ryxaeCuPYZCtUhzAs34QwM4o7/view?usp=sharing))
+
+
+## ALGORITHMS
+The 2 main pheomena to understand basic Object Detection/Recognition Systems of Computer Vision and Machine Learning.
+1.) Feature Extraction
+How to represent the interesting points we found to compare them with other interesting points (features) in the image.
+2.) Classification
+An algorithm that implements classification, especially in a concrete implementation, is known as a classifier. The term "classifier" sometimes also refers to the mathematical function, implemented by a classification algorithm, that maps input data to a category.
+For this project;
+1.) Feature Extraction = Color Histogram
+Color Histogram is a representation of the distribution of colors in an image. For digital images, a color histogram represents the number of pixels that have colors in each of a fixed list of color ranges, that span the image's color space, the set of all possible colors.
+![Markdown symbol]([https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg](https://user-images.githubusercontent.com/22610163/34918867-44f5feaa-f96b-11e7-9994-1747846266c9.png)https://user-images.githubusercontent.com/22610163/34918867-44f5feaa-f96b-11e7-9994-1747846266c9.png)  
