@@ -89,7 +89,7 @@ from IPython.core.display import display, HTML
 import logging
 logging.getLogger("tensorflow").setLevel(logging.ERROR)
 print ('modules loaded')
-
+```
 ## DATASET
 
 Images in this dataset were sourced from google. The were further cleaned up, post-processed, annotated and consolidated into a dataset. VCoR is a large scale and most diverse Vehicle color recognition dataset. VCoR contains 10k+ image samples and 15 color classes which is almost twice as diverse as the largest existing dataset. The 15 color categories represent the most popular vehicle color models according to CarMax, including: white, black, grey, silver, red, blue, brown, green, beige, orange, gold, yellow, purple, pink, and tan.
