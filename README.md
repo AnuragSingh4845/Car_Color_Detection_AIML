@@ -56,7 +56,7 @@ threshold=.9, factor=.5, dwell=True,batches=85, initial_epoch=0 , epochs=20, ask
 
 It uses the function trim to set the maximum number of samples in a class defined by the string column to max_samples. if the number of samples is less than min_samples the class is eliminated from the dataset. If some classes have less than max_samples, then augmented images are created for that class and stored in the working_dir so the class will have max_samples of images. After augmentation an aug_df is created for the augmented images in the working_dir. The aug_df is then merged with the original train_df to produce a new train_df that has exactly max_sample images in each class thus creating a balanced training set.
 
-## Necessary Modules
+## MODULES
 
 ```sh
 import os
@@ -89,3 +89,13 @@ from IPython.core.display import display, HTML
 import logging
 logging.getLogger("tensorflow").setLevel(logging.ERROR)
 print ('modules loaded')
+
+## DATASET
+
+Images in this dataset were sourced from google. The were further cleaned up, post-processed, annotated and consolidated into a dataset. VCoR is a large scale and most diverse Vehicle color recognition dataset. VCoR contains 10k+ image samples and 15 color classes which is almost twice as diverse as the largest existing dataset. The 15 color categories represent the most popular vehicle color models according to CarMax, including: white, black, grey, silver, red, blue, brown, green, beige, orange, gold, yellow, purple, pink, and tan.
+
+CONTENT
+There is one main zip file available for download which contains 3 sub-folders.
+1) train folder contains 15 folders for all 15 color classes, and about 7.5K images
+2) val folder contains 15 folders for all 15 color classes, and about 1.5K images
+3) test folder contains 15 folders for all 15 color classes, and about 1.5K images
