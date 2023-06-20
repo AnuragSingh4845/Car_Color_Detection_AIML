@@ -117,4 +117,4 @@ An algorithm that implements classification, especially in a concrete implementa
 For this project;
 1.) Feature Extraction = Color Histogram
 Color Histogram is a representation of the distribution of colors in an image. For digital images, a color histogram represents the number of pixels that have colors in each of a fixed list of color ranges, that span the image's color space, the set of all possible colors.
-![Markdown symbol]([https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg](https://user-images.githubusercontent.com/22610163/34918867-44f5feaa-f96b-11e7-9994-1747846266c9.png)https://user-images.githubusercontent.com/22610163/34918867-44f5feaa-f96b-11e7-9994-1747846266c9.png)  
+![Markdown symbol](src/cycle.png)  
