@@ -123,4 +123,11 @@ For this project;
 1.) Feature Extraction = Color Histogram
 
 Color Histogram is a representation of the distribution of colors in an image. For digital images, a color histogram represents the number of pixels that have colors in each of a fixed list of color ranges, that span the image's color space, the set of all possible colors.
+
 ![Markdown symbol](src/cycle.png)  
+
+2.) Classification = K-Nearest Neighbors Algorithm
+
+K nearest neighbors is a simple algorithm that stores all available cases and classifies new cases based on a similarity measure (e.g., distance functions). KNN has been used in statistical estimation and pattern recognition already in the beginning of 1970’s as a non-parametric technique.
+
+![Markdown symbol](src/circle.png)  
