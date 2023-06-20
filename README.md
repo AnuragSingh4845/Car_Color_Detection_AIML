@@ -109,6 +109,11 @@ LINKS TO DATA SETS ARE GIVE BELOW👇
 
 
 ## ALGORITHMS
+
+In this study, colors are classified by using K-Neares Neşghbor Machine Learning classifier algorithm. This classifier is trained by image R, G, B Color Histogram values. The general work flow is given at the below.
+
+
+
 The 2 main pheomena to understand basic Object Detection/Recognition Systems of Computer Vision and Machine Learning.
 
 1.) Feature Extraction
@@ -119,6 +124,8 @@ How to represent the interesting points we found to compare them with other inte
 
 An algorithm that implements classification, especially in a concrete implementation, is known as a classifier. The term "classifier" sometimes also refers to the mathematical function, implemented by a classification algorithm, that maps input data to a category.
 For this project;
+
+![Markdown symbol](src/K-cluster.png)  
 
 1.) Feature Extraction = Color Histogram
 
