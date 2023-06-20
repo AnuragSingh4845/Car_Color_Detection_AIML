@@ -102,4 +102,4 @@ There is one main zip file available for download which contains 3 sub-folders.
 
 [KAGGLE]([/guides/content/editing-an-existing-page](https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset)https://www.kaggle.com/datasets/landrykezebou/vcor-vehicle-color-recognition-dataset)
 
-[GOOGLE DRIVE]([/guides/content/editing-an-existing-page](https://drive.google.com/file/d/1wpW7hD2ryxaeCuPYZCtUhzAs34QwM4o7/view?usp=sharing)
+[GOOGLEDRIVE]([/guides/content/editing-an-existing-page](https://drive.google.com/file/d/1wpW7hD2ryxaeCuPYZCtUhzAs34QwM4o7/view?usp=sharing))
