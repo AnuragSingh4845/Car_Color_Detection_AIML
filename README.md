@@ -112,12 +112,15 @@ LINKS TO DATA SETS ARE GIVE BELOW👇
 The 2 main pheomena to understand basic Object Detection/Recognition Systems of Computer Vision and Machine Learning.
 
 1.) Feature Extraction
+
 How to represent the interesting points we found to compare them with other interesting points (features) in the image.
 
 2.) Classification
+
 An algorithm that implements classification, especially in a concrete implementation, is known as a classifier. The term "classifier" sometimes also refers to the mathematical function, implemented by a classification algorithm, that maps input data to a category.
 For this project;
 
 1.) Feature Extraction = Color Histogram
+
 Color Histogram is a representation of the distribution of colors in an image. For digital images, a color histogram represents the number of pixels that have colors in each of a fixed list of color ranges, that span the image's color space, the set of all possible colors.
 ![Markdown symbol](src/cycle.png)  
